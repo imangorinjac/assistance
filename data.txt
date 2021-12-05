@@ -1,0 +1,4 @@
+event name:CS41 Lecture
+date:03302021
+start_time:14.5
+end_time:16
